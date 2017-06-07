@@ -3,9 +3,6 @@
         <div class="container text-center">
                         <h3 class="brand-heading">6.&ndash;8. 10. 2017, {{ site.title }}</h3>
                         <ul class="list-inline banner-social-buttons">
-                            <li>
-                              <a href="https://goo.gl/forms/SgVjmmBG2ylBsM9D3" class="btn btn-default btn-lg">Registrace</a>
-                            </li>
                             {% for network in site.social %}
                             <li>
                                 <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
