@@ -1,0 +1,26 @@
+    <!-- Intro Header -->
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h2 class="brand-heading">{{ site.title }}</h2>
+                        <h3 class="brand-subtitle">{{ site.subtitle }}</h3>
+                        <h2 class="date-subtitle">17.&ndash;19. 8. 2018</h2>
+                        <p class="intro-text">{{ site.description }}<br>
+                        <p class="intro-text">Uvedou Lukáš, Eskor, Deff a Afri.<br>
+                        <ul class="list-inline banner-social-buttons">
+                            {% for network in site.social %}
+                            <li>
+                                <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    <a href="#basics" class="btn btn-circle page-scroll">
+                      <i class="fa fa-angle-double-down animated"></i>
+                    </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
