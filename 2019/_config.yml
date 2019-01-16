@@ -1,0 +1,27 @@
+# Site settings
+title: "Nordica"
+subtitle: "Anabasis 🞛 Bitva o Fort"
+email: afri@afri.cz
+url: http://nordica.larpy.cz
+description: "Nordica je tvrdá fantasy bitva. Společně ji připravují
+organizátoři Anabasis a Bitvy o Fort. Na Nordice si užijete pořádnou bitku,
+tradiční scénářové střety, bojové úkoly jednotlivých čet, psané rozkazy,
+vypravěče, kteří vás provedou dějem, žádné dlouhé přesuny. Příběh jako na
+Anabasi, atmosféra jako na Fortu a pitka jako ve Valhalle!"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#54cde6'
+
+# Footer settings
+footer: Nordica Larp
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/anabasis.larp
+
+# Build settings
+markdown: kramdown
+permalink: pretty
