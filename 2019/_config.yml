@@ -1,6 +1,6 @@
 # Site settings
 title: "Nordica"
-subtitle: "Anabasis 🞛 Bitva o Fort"
+subtitle: "Anabasis | Bitva o Fort"
 email: afri@afri.cz
 url: http://nordica.larpy.cz
 description: "Nordica je tvrdá fantasy bitva. Společně ji připravují
@@ -20,7 +20,7 @@ footer: Nordica Larp
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com/anabasis.larp
+    url: https://www.facebook.com/Nordica.larpbitva
 
 # Build settings
 markdown: kramdown
