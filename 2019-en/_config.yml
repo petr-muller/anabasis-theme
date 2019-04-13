@@ -1,0 +1,28 @@
+# Site settings
+title: "Nordica"
+subtitle: "Anabasis | Battle of Fort"
+email: afri@afri.cz
+url: http://nordica.larpy.cz/en
+czurl: http://nordica.larpy.cz
+description: "Nordica is a hardcore battle larp with a fantasy setting, by the
+joint team of Battle of Fort and Anabasis event creators. Nordica provides a
+solid hardcore fight experience, well-designed battle scenarios, unit-focused
+objectives, narrators conveying the story, and finally, no lengthy marches. An
+Anabasis-like story, a Battle of Fort-like atmosphere and a party like in
+Valhalla!"
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#54cde6'
+
+# Footer settings
+footer: Nordica Larp
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/Nordica.larpbitva
+
+# Build settings
+markdown: kramdown
+permalink: pretty
